@@ -30,4 +30,4 @@ This is a customized version of Default Clean Theme. It contains 3 columns, blac
 
 ## License
 - MIT
-![Screenshot Clean Custom FS](https://raw.githubusercontent.com/fabianosantosnet/rep-htmly/blob/main/themes/clean-custom-fs/screenshot.png)
+![Screenshot Clean Custom FS](https://raw.githubusercontent.com/fabianosantosnet/rep-htmly/main/themes/clean-custom-fs/screenshot.png)
