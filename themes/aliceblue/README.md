@@ -8,6 +8,11 @@ This is based on [Sideblog Theme](https://github.com/derweili/htmly-sideblog). I
   V0.1b
   Added footer, search and tag  
   
+  V0.2b
+  Added support to lang - pt_BR and en_US (folder lang - copy en_US and translate keys)  
+  Also added support to htmly types like audio and video etc  
+  Front page added with popular and recent posts  
+  
   For more information read README file
 
 ## Compatible 
